@@ -1,0 +1,91 @@
+body {
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 300;
+    font-family: Inter, sans-serif;
+}
+  
+.header_content {
+    
+}
+.head_content {
+}
+.container {
+    display: flex;
+}
+.container img {
+    border-radius: 50%;
+    max-width: 200px;
+    width: 100%;
+    margin-left: 250px;
+    margin-top: 50px;
+    height: fit-content;
+}
+.heading {
+    margin-left: 40px;
+    margin-top: 35px;
+}
+.heading h1 {
+    font-size: 36px;
+    font-weight: 500;
+    
+}
+.heading p {
+    font-size: 14px;
+    color: #666666;
+    font-weight: 400;
+    line-height: 1.714em;
+}
+.heading a {
+    text-decoration: none;
+    color: #161616;
+    font-size: 15px;
+    font-weight: 500;
+}
+.main_content {
+    margin-top: 180px;
+}
+.content {
+    width: 100%;
+}
+.main_content .container {
+    display: flex;
+    justify-content: space-between;
+}
+.main {
+    margin-left: 250px;
+}
+.main h1 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 1.385em;
+}
+.main p {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 26px;
+    color: #666666;
+}
+.date {
+    margin-right: 230px;
+}
+.date h4 {
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.385em;
+}
+.h_same {
+    font-size: 14px;
+}
+.same {
+    font-size: 14px;
+    color: #666666;
+    line-height: 24px;
+    padding-bottom: 0;
+}
